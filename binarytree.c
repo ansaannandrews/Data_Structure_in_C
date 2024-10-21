@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void main() {
     int n, A[50], pos, p , lc, rc;
 
     printf("Enter the number of elements: ");
